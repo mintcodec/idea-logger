@@ -11,7 +11,7 @@ A simple Discord bot that lets users save and list their ideas using slash comma
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/idea-logger-bot.git
+   git clone https://github.com/mintcodec/idea-logger
    cd idea-logger-bot
    ```
 
